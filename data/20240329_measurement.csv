@@ -1,0 +1,702 @@
+room,wall,air_temp_degC,air_humidity_percent,wall_x_coord_cm,wall_y_coord_cm,wall_humidity_digits,wall_temperature_degC
+Fahrradkeller,Südwand,20.0,50,0,0,75.5,14.0
+Fahrradkeller,Südwand,20.0,50,0,20,58.8,15.3
+Fahrradkeller,Südwand,20.0,50,0,50,50.1,16.0
+Fahrradkeller,Südwand,20.0,50,0,100,60.5,16.0
+Fahrradkeller,Südwand,20.0,50,0,150,67.5,16.2
+Fahrradkeller,Südwand,20.0,50,0,200,60.0,16.2
+Fahrradkeller,Südwand,20.0,50,0,230,65.5,15.9
+Fahrradkeller,Südwand,20.0,50,0,250,52.9,15.9
+Fahrradkeller,Südwand,20.0,50,20,0,57.1,16.2
+Fahrradkeller,Südwand,20.0,50,20,20,60.6,16.8
+Fahrradkeller,Südwand,20.0,50,20,50,51.8,15.7
+Fahrradkeller,Südwand,20.0,50,20,100,35.7,16.9
+Fahrradkeller,Südwand,20.0,50,20,200,42.0,16.1
+Fahrradkeller,Südwand,20.0,50,20,230,44.8,16.6
+Fahrradkeller,Südwand,20.0,50,20,250,51.1,15.8
+Fahrradkeller,Südwand,20.0,50,50,0,90.1,15.2
+Fahrradkeller,Südwand,20.0,50,50,20,59.0,16.9
+Fahrradkeller,Südwand,20.0,50,50,50,39.0,17.7
+Fahrradkeller,Südwand,20.0,50,50,100,34.0,17.7
+Fahrradkeller,Südwand,20.0,50,50,200,25.6,17.3
+Fahrradkeller,Südwand,20.0,50,50,230,27.3,17.6
+Fahrradkeller,Südwand,20.0,50,50,250,35.0,18.1
+Fahrradkeller,Südwand,20.0,50,100,0,81.4,16.4
+Fahrradkeller,Südwand,20.0,50,100,20,48.7,17.0
+Fahrradkeller,Südwand,20.0,50,100,50,33.1,17.5
+Fahrradkeller,Südwand,20.0,50,100,100,32.5,17.5
+Fahrradkeller,Südwand,20.0,50,100,200,31.8,17.7
+Fahrradkeller,Südwand,20.0,50,100,230,33.1,17.6
+Fahrradkeller,Südwand,20.0,50,100,250,59.1,17.6
+Fahrradkeller,Südwand,20.0,50,200,0,86.0,15.2
+Fahrradkeller,Südwand,20.0,50,200,20,39.1,16.8
+Fahrradkeller,Südwand,20.0,50,200,50,41.3,17.1
+Fahrradkeller,Südwand,20.0,50,200,100,37.9,17.4
+Fahrradkeller,Südwand,20.0,50,200,200,26.6,17.6
+Fahrradkeller,Südwand,20.0,50,200,230,29.6,17.6
+Fahrradkeller,Südwand,20.0,50,200,250,28.6,17.8
+Fahrradkeller,Südwand,20.0,50,300,0,75.2,16.8
+Fahrradkeller,Südwand,20.0,50,300,20,50.2,16.7
+Fahrradkeller,Südwand,20.0,50,300,50,31.3,17.0
+Fahrradkeller,Südwand,20.0,50,300,100,31.8,17.3
+Fahrradkeller,Südwand,20.0,50,300,200,25.3,17.6
+Fahrradkeller,Südwand,20.0,50,300,230,30.0,18.2
+Fahrradkeller,Südwand,20.0,50,300,250,29.1,17.8
+Fahrradkeller,Südwand,20.0,50,400,0,80.3,17.1
+Fahrradkeller,Südwand,20.0,50,400,20,43.5,17.1
+Fahrradkeller,Südwand,20.0,50,400,50,32.2,17.4
+Fahrradkeller,Südwand,20.0,50,400,100,29.7,17.7
+Fahrradkeller,Südwand,20.0,50,400,200,26.6,17.6
+Fahrradkeller,Südwand,20.0,50,400,230,29.5,17.6
+Fahrradkeller,Südwand,20.0,50,400,250,35.0,18.2
+Fahrradkeller,Südwand,20.0,50,500,0,75.8,16.1
+Fahrradkeller,Südwand,20.0,50,500,20,45.4,16.8
+Fahrradkeller,Südwand,20.0,50,500,50,34.3,17.2
+Fahrradkeller,Südwand,20.0,50,500,100,35.8,17.4
+Fahrradkeller,Südwand,20.0,50,500,200,29.8,17.4
+Fahrradkeller,Südwand,20.0,50,500,230,31.1,17.7
+Fahrradkeller,Südwand,20.0,50,500,250,32.0,17.7
+Fahrradkeller,Südwand,20.0,50,600,0,80.2,16.7
+Fahrradkeller,Südwand,20.0,50,600,20,43.9,17.0
+Fahrradkeller,Südwand,20.0,50,600,50,34.4,17.0
+Fahrradkeller,Südwand,20.0,50,600,100,30.5,17.3
+Fahrradkeller,Südwand,20.0,50,600,200,27.2,17.3
+Fahrradkeller,Südwand,20.0,50,600,230,34.0,18.2
+Fahrradkeller,Südwand,20.0,50,600,250,35.6,17.3
+Fahrradkeller,Südwand,20.0,50,700,0,76.8,15.3
+Fahrradkeller,Südwand,20.0,50,700,20,40.4,16.4
+Fahrradkeller,Südwand,20.0,50,700,50,32.1,16.7
+Fahrradkeller,Südwand,20.0,50,700,100,28.9,16.7
+Fahrradkeller,Südwand,20.0,50,700,200,24.0,16.7
+Fahrradkeller,Südwand,20.0,50,700,230,26.2,16.7
+Fahrradkeller,Südwand,20.0,50,700,250,29.1,16.8
+Fahrradkeller,Südwand,20.0,50,800,0,81.5,17.4
+Fahrradkeller,Südwand,20.0,50,800,20,45.2,16.9
+Fahrradkeller,Südwand,20.0,50,800,50,32.6,16.9
+Fahrradkeller,Südwand,20.0,50,800,100,31.9,17.5
+Fahrradkeller,Südwand,20.0,50,800,200,25.9,17.2
+Fahrradkeller,Südwand,20.0,50,800,230,30.6,17.5
+Fahrradkeller,Südwand,20.0,50,800,250,32.5,17.5
+Fahrradkeller,Südwand,20.0,50,900,0,94.0,16.1
+Fahrradkeller,Südwand,20.0,50,900,20,84.0,15.7
+Fahrradkeller,Südwand,20.0,50,900,50,54.0,15.7
+Fahrradkeller,Südwand,20.0,50,900,100,38.7,16.8
+Fahrradkeller,Südwand,20.0,50,900,200,35.2,16.8
+Fahrradkeller,Südwand,20.0,50,900,230,32.5,16.8
+Fahrradkeller,Südwand,20.0,50,900,250,34.4,16.8
+Fahrradkeller,Südwand,20.0,50,1000,0,87.2,16.3
+Fahrradkeller,Südwand,20.0,50,1000,20,88.2,15.8
+Fahrradkeller,Südwand,20.0,50,1000,50,109.0,16.5
+Fahrradkeller,Südwand,20.0,50,1000,100,34.4,17.7
+Fahrradkeller,Südwand,20.0,50,1000,200,26.6,17.7
+Fahrradkeller,Südwand,20.0,50,1000,230,29.7,17.3
+Fahrradkeller,Südwand,20.0,50,1000,250,42.3,17.3
+Fahrradkeller,Südwand,20.0,50,1050,0,88.2,15.7
+Fahrradkeller,Südwand,20.0,50,1050,20,48.6,15.7
+Fahrradkeller,Südwand,20.0,50,1050,50,49.2,16.8
+Fahrradkeller,Südwand,20.0,50,1050,100,35.5,17.1
+Fahrradkeller,Südwand,20.0,50,1050,200,28.8,17.6
+Fahrradkeller,Südwand,20.0,50,1050,230,29.7,17.2
+Fahrradkeller,Südwand,20.0,50,1050,250,44.5,16.8
+Fahrradkeller,Südwand,20.0,50,1080,0,108.0,14.5
+Fahrradkeller,Südwand,20.0,50,1080,20,72.3,14.9
+Fahrradkeller,Südwand,20.0,50,1080,50,47.5,15.7
+Fahrradkeller,Südwand,20.0,50,1080,100,29.6,16.1
+Fahrradkeller,Südwand,20.0,50,1080,150,31.2,16.6
+Fahrradkeller,Südwand,20.0,50,1080,200,28.4,16.6
+Fahrradkeller,Südwand,20.0,50,1080,230,30.3,16.3
+Fahrradkeller,Südwand,20.0,50,1080,250,34.4,16.4
+Fahrradkeller,Südwand,20.0,50,1100,0,49.4,13.0
+Fahrradkeller,Südwand,20.0,50,1100,20,75.0,13.4
+Fahrradkeller,Südwand,20.0,50,1100,50,87.4,13.7
+Fahrradkeller,Südwand,20.0,50,1100,100,82.0,14.7
+Fahrradkeller,Südwand,20.0,50,1100,150,54.9,14.7
+Fahrradkeller,Südwand,20.0,50,1100,200,51.7,15.4
+Fahrradkeller,Südwand,20.0,50,1100,230,63.1,14.7
+Fahrradkeller,Südwand,20.0,50,1100,250,37.8,15.1
+Fahrradkeller,Westwand,20.0,50,0,0,73.5,14.8
+Fahrradkeller,Westwand,20.0,50,0,20,63.5,15.5
+Fahrradkeller,Westwand,20.0,50,0,50,93.9,15.8
+Fahrradkeller,Westwand,20.0,50,0,100,70.6,16.3
+Fahrradkeller,Westwand,20.0,50,0,150,56.3,16.3
+Fahrradkeller,Westwand,20.0,50,0,200,49.6,16.3
+Fahrradkeller,Westwand,20.0,50,0,230,63.4,16.3
+Fahrradkeller,Westwand,20.0,50,0,250,46.5,16.3
+Fahrradkeller,Westwand,20.0,50,20,0,99.2,15.5
+Fahrradkeller,Westwand,20.0,50,20,20,77.2,15.5
+Fahrradkeller,Westwand,20.0,50,20,50,73.8,15.5
+Fahrradkeller,Westwand,20.0,50,20,100,36.3,17.1
+Fahrradkeller,Westwand,20.0,50,20,150,31.9,16.8
+Fahrradkeller,Westwand,20.0,50,20,200,33.4,16.8
+Fahrradkeller,Westwand,20.0,50,20,230,30.2,16.4
+Fahrradkeller,Westwand,20.0,50,20,250,58.1,16.4
+Fahrradkeller,Westwand,20.0,50,50,0,305.0,15.3
+Fahrradkeller,Westwand,20.0,50,50,5,350.0,15.3
+Fahrradkeller,Westwand,20.0,50,42,0,440.0,15.1
+Fahrradkeller,Westwand,20.0,50,42,20,90.1,14.0
+Fahrradkeller,Westwand,20.0,50,42,50,98.7,14.7
+Fahrradkeller,Westwand,20.0,50,42,100,38.5,16.0
+Fahrradkeller,Westwand,20.0,50,42,200,29.9,16.5
+Fahrradkeller,Westwand,20.0,50,42,230,29.5,16.5
+Fahrradkeller,Westwand,20.0,50,42,250,37.0,16.2
+Fahrradkeller,Westwand,20.0,50,100,0,89.7,15.2
+Fahrradkeller,Westwand,20.0,50,100,20,95.8,15.3
+Fahrradkeller,Westwand,20.0,50,100,50,93.6,15.6
+Fahrradkeller,Westwand,20.0,50,100,100,33.4,16.7
+Fahrradkeller,Westwand,20.0,50,100,200,27.9,16.7
+Fahrradkeller,Westwand,20.0,50,100,230,25.0,16.8
+Fahrradkeller,Westwand,20.0,50,100,250,35.7,16.0
+Fahrradkeller,Westwand,20.0,50,200,0,66.6,15.4
+Fahrradkeller,Westwand,20.0,50,200,20,48.2,15.4
+Fahrradkeller,Westwand,20.0,50,200,50,29.4,15.8
+Fahrradkeller,Westwand,20.0,50,200,100,33.9,15.8
+Fahrradkeller,Westwand,20.0,50,200,210,18.2,15.5
+Fahrradkeller,Westwand,20.0,50,200,230,28.7,15.8
+Fahrradkeller,Westwand,20.0,50,200,250,53.0,15.9
+Fahrradkeller,Westwand,20.0,50,300,0,53.7,15.1
+Fahrradkeller,Westwand,20.0,50,300,20,35.8,15.8
+Fahrradkeller,Westwand,20.0,50,300,50,37.6,16.2
+Fahrradkeller,Westwand,20.0,50,300,100,27.5,16.9
+Fahrradkeller,Westwand,20.0,50,300,200,29.8,16.7
+Fahrradkeller,Westwand,20.0,50,300,230,25.6,16.5
+Fahrradkeller,Westwand,20.0,50,300,250,41.8,16.5
+Fahrradkeller,Westwand,20.0,50,330,0,78.2,14.8
+Fahrradkeller,Westwand,20.0,50,330,20,44.4,16.2
+Fahrradkeller,Westwand,20.0,50,330,50,29.5,16.3
+Fahrradkeller,Westwand,20.0,50,330,100,31.2,16.6
+Fahrradkeller,Westwand,20.0,50,330,200,26.6,16.6
+Fahrradkeller,Westwand,20.0,50,330,230,27.4,16.6
+Fahrradkeller,Westwand,20.0,50,330,250,59.4,16.4
+Fahrradkeller,Westwand,20.0,50,360,0,76.7,14.7
+Fahrradkeller,Westwand,20.0,50,360,20,72.3,14.8
+Fahrradkeller,Westwand,20.0,50,360,50,50.3,15.7
+Fahrradkeller,Westwand,20.0,50,360,100,33.8,16.3
+Fahrradkeller,Westwand,20.0,50,360,150,29.8,14.9
+Fahrradkeller,Westwand,20.0,50,360,200,26.6,15.4
+Fahrradkeller,Westwand,20.0,50,360,230,31.0,16.3
+Fahrradkeller,Westwand,20.0,50,360,250,38.1,17.2
+Fahrradkeller,Westwand,20.0,50,380,0,78.4,14.6
+Fahrradkeller,Westwand,20.0,50,380,20,70.1,14.9
+Fahrradkeller,Westwand,20.0,50,380,50,75.0,14.9
+Fahrradkeller,Westwand,20.0,50,380,100,61.1,15.9
+Fahrradkeller,Westwand,20.0,50,380,150,39.7,15.3
+Fahrradkeller,Westwand,20.0,50,380,200,32.6,16.0
+Fahrradkeller,Westwand,20.0,50,380,230,42.4,17.7
+Fahrradkeller,Westwand,20.0,50,380,250,32.8,18.8
+Technikraum,Westwand,29.0,42,5,0,65.0,17.2
+Technikraum,Westwand,29.0,42,5,20,52.7,19.2
+Technikraum,Westwand,29.0,42,5,50,49.2,21.5
+Technikraum,Westwand,29.0,42,5,100,33.4,23.4
+Technikraum,Westwand,29.0,42,5,150,29.8,22.2
+Technikraum,Westwand,29.0,42,5,200,22.8,24.2
+Technikraum,Westwand,29.0,42,5,230,24.6,24.0
+Technikraum,Westwand,29.0,42,5,245,25.6,23.7
+Technikraum,Westwand,29.0,42,20,0,55.7,17.8
+Technikraum,Westwand,29.0,42,20,20,49.9,18.2
+Technikraum,Westwand,29.0,42,20,50,25.0,23.8
+Technikraum,Westwand,29.0,42,20,100,18.2,24.5
+Technikraum,Westwand,29.0,42,20,150,22.5,24.2
+Technikraum,Westwand,29.0,42,20,200,38.1,24.6
+Technikraum,Westwand,29.0,42,20,230,21.0,24.2
+Technikraum,Westwand,29.0,42,20,245,28.5,23.9
+Technikraum,Westwand,29.0,42,50,0,92.6,18.9
+Technikraum,Westwand,29.0,42,50,20,81.3,20.8
+Technikraum,Westwand,29.0,42,50,50,41.7,22.4
+Technikraum,Westwand,29.0,42,50,100,22.6,25.3
+Technikraum,Westwand,29.0,42,50,200,19.7,25.5
+Technikraum,Westwand,29.0,42,50,230,21.5,24.4
+Technikraum,Westwand,29.0,42,50,250,34.5,24.2
+Technikraum,Westwand,29.0,42,100,0,78.8,22.3
+Technikraum,Westwand,29.0,42,100,20,32.9,22.8
+Technikraum,Westwand,29.0,42,100,50,25.7,23.6
+Technikraum,Westwand,29.0,42,100,100,20.7,25.5
+Technikraum,Westwand,29.0,42,100,200,19.0,25.1
+Technikraum,Westwand,29.0,42,100,230,16.5,24.8
+Technikraum,Westwand,29.0,42,100,250,42.5,24.8
+Technikraum,Westwand,29.0,42,220,0,66.0,20.6
+Technikraum,Westwand,29.0,42,220,20,37.8,23.8
+Technikraum,Westwand,29.0,42,220,50,26.6,24.6
+Technikraum,Westwand,29.0,42,220,100,22.6,24.9
+Technikraum,Westwand,29.0,42,220,200,22.1,24.9
+Technikraum,Westwand,29.0,42,220,230,19.7,24.7
+Technikraum,Westwand,29.0,42,220,250,32.5,24.5
+Technikraum,Westwand,29.0,42,250,0,70.8,21.1
+Technikraum,Westwand,29.0,42,250,20,36.6,24.8
+Technikraum,Westwand,29.0,42,250,50,24.7,24.5
+Technikraum,Westwand,29.0,42,250,100,23.3,24.8
+Technikraum,Westwand,29.0,42,250,150,20.4,25.1
+Technikraum,Westwand,29.0,42,250,200,19.7,25.0
+Technikraum,Westwand,29.0,42,250,230,20.3,24.7
+Technikraum,Westwand,29.0,42,250,250,33.8,24.4
+Technikraum,Westwand,29.0,42,270,0,71.4,18.1
+Technikraum,Westwand,29.0,42,270,20,46.4,21.2
+Technikraum,Westwand,29.0,42,270,50,37.0,22.7
+Technikraum,Westwand,29.0,42,270,100,34.4,24.0
+Technikraum,Westwand,29.0,42,270,150,33.0,23.7
+Technikraum,Westwand,29.0,42,270,200,29.7,23.7
+Technikraum,Westwand,29.0,42,270,230,25.8,23.4
+Technikraum,Westwand,29.0,42,270,250,27.1,23.5
+Keller 1,Westwand,19.9,69,0,2,92.3,12.9
+Keller 1,Westwand,19.9,69,0,20,78.9,13.8
+Keller 1,Westwand,19.9,69,0,50,57.3,14.5
+Keller 1,Westwand,19.9,69,0,100,55.1,14.8
+Keller 1,Westwand,19.9,69,0,150,57.3,15.1
+Keller 1,Westwand,19.9,69,0,200,54.9,15.1
+Keller 1,Westwand,19.9,69,0,230,55.8,15.1
+Keller 1,Westwand,19.9,69,0,245,61.9,15.1
+Keller 1,Westwand,19.9,69,20,2,80.7,12.7
+Keller 1,Westwand,19.9,69,20,20,45.7,13.7
+Keller 1,Westwand,19.9,69,20,50,47.1,13.9
+Keller 1,Westwand,19.9,69,20,100,42.8,14.9
+Keller 1,Westwand,19.9,69,20,150,44.4,14.9
+Keller 1,Westwand,19.9,69,20,200,40.6,14.9
+Keller 1,Westwand,19.9,69,20,230,38.8,15.3
+Keller 1,Westwand,19.9,69,20,245,48.5,14.6
+Keller 1,Westwand,19.9,69,50,2,84.0,11.9
+Keller 1,Westwand,19.9,69,50,20,70.3,14.2
+Keller 1,Westwand,19.9,69,50,50,47.9,14.6
+Keller 1,Westwand,19.9,69,50,100,43.2,14.9
+Keller 1,Westwand,19.9,69,50,150,47.7,15.3
+Keller 1,Westwand,19.9,69,50,200,35.4,14.7
+Keller 1,Westwand,19.9,69,50,230,41.0,14.6
+Keller 1,Westwand,19.9,69,50,245,52.5,14.6
+Keller 1,Westwand,19.9,69,100,2,79.3,13.0
+Keller 1,Westwand,19.9,69,100,20,73.0,13.3
+Keller 1,Westwand,19.9,69,100,50,51.3,14.1
+Keller 1,Westwand,19.9,69,100,100,45.1,14.7
+Keller 1,Westwand,19.9,69,100,150,39.8,154.0
+Keller 1,Westwand,19.9,69,100,200,39.1,15.3
+Keller 1,Westwand,19.9,69,100,230,41.7,15.0
+Keller 1,Westwand,19.9,69,100,245,45.8,14.7
+Keller 1,Westwand,19.9,69,142,0,101.0,16.6
+Keller 1,Westwand,19.9,69,142,20,95.1,13.1
+Keller 1,Westwand,19.9,69,142,50,46.9,14.0
+Keller 1,Westwand,19.9,69,142,100,38.1,14.8
+Keller 1,Westwand,19.9,69,142,150,38.7,15.1
+Keller 1,Westwand,19.9,69,142,200,39.8,14.5
+Keller 1,Westwand,19.9,69,142,230,38.0,14.5
+Keller 1,Westwand,19.9,69,142,245,48.2,14.5
+Keller 1,Westwand,19.9,69,192,0,80.2,12.6
+Keller 1,Westwand,19.9,69,192,20,132.0,12.6
+Keller 1,Westwand,19.9,69,192,50,83.9,13.2
+Keller 1,Westwand,19.9,69,192,100,40.3,14.2
+Keller 1,Westwand,19.9,69,192,150,34.2,14.6
+Keller 1,Westwand,19.9,69,192,200,41.4,14.7
+Keller 1,Westwand,19.9,69,192,230,36.1,14.4
+Keller 1,Westwand,19.9,69,192,245,58.5,14.4
+Keller 1,Westwand,19.9,69,212,2,250.0,10.2
+Keller 1,Westwand,19.9,69,212,20,172.0,10.6
+Keller 1,Westwand,19.9,69,212,50,105.0,12.3
+Keller 1,Westwand,19.9,69,212,100,67.8,12.3
+Keller 1,Westwand,19.9,69,212,150,63.4,13.1
+Keller 1,Westwand,19.9,69,212,200,78.5,12.0
+Keller 1,Westwand,19.9,69,212,230,60.3,12.0
+Keller 1,Westwand,19.9,69,212,245,43.5,125.0
+Keller 1,Nordwand,19.9,69,0,2,228.0,13.1
+Keller 1,Nordwand,19.9,69,0,20,186.0,13.7
+Keller 1,Nordwand,19.9,69,0,50,118.0,13.7
+Keller 1,Nordwand,19.9,69,0,100,70.2,14.6
+Keller 1,Nordwand,19.9,69,0,150,74.0,15.4
+Keller 1,Nordwand,19.9,69,0,200,75.7,15.4
+Keller 1,Nordwand,19.9,69,0,230,69.0,15.2
+Keller 1,Nordwand,19.9,69,0,245,61.5,15.2
+Keller 1,Nordwand,19.9,69,20,2,90.4,14.6
+Keller 1,Nordwand,19.9,69,20,20,116.0,14.5
+Keller 1,Nordwand,19.9,69,20,50,81.7,15.9
+Keller 1,Nordwand,19.9,69,20,100,53.2,16.3
+Keller 1,Nordwand,19.9,69,20,150,48.4,16.3
+Keller 1,Nordwand,19.9,69,20,200,53.3,16.3
+Keller 1,Nordwand,19.9,69,20,230,54.0,15.8
+Keller 1,Nordwand,19.9,69,20,245,55.7,15.8
+Keller 1,Nordwand,19.9,69,50,2,81.8,13.1
+Keller 1,Nordwand,19.9,69,50,20,97.8,13.7
+Keller 1,Nordwand,19.9,69,50,50,58.3,14.5
+Keller 1,Nordwand,19.9,69,50,100,49.1,15.7
+Keller 1,Nordwand,19.9,69,50,150,45.4,16.0
+Keller 1,Nordwand,19.9,69,50,200,54.5,16.2
+Keller 1,Nordwand,19.9,69,50,230,57.3,15.6
+Keller 1,Nordwand,19.9,69,50,245,55.9,15.2
+Keller 1,Nordwand,19.9,69,100,2,84.4,14.3
+Keller 1,Nordwand,19.9,69,100,20,84.3,13.5
+Keller 1,Nordwand,19.9,69,100,50,60.4,14.5
+Keller 1,Nordwand,19.9,69,100,100,46.1,15.2
+Keller 1,Nordwand,19.9,69,100,150,48.4,15.5
+Keller 1,Nordwand,19.9,69,100,200,54.8,15.0
+Keller 1,Nordwand,19.9,69,100,230,60.2,14.9
+Keller 1,Nordwand,19.9,69,100,245,54.3,15.1
+Keller 1,Nordwand,19.9,69,220,2,74.4,12.8
+Keller 1,Nordwand,19.9,69,220,20,94.4,13.0
+Keller 1,Nordwand,19.9,69,220,50,72.3,14.0
+Keller 1,Nordwand,19.9,69,220,100,47.9,15.6
+Keller 1,Nordwand,19.9,69,220,150,49.1,15.9
+Keller 1,Nordwand,19.9,69,220,200,47.8,45.9
+Keller 1,Nordwand,19.9,69,220,230,42.1,15.6
+Keller 1,Nordwand,19.9,69,220,245,41.6,15.6
+Keller 1,Nordwand,19.9,69,270,2,73.3,12.1
+Keller 1,Nordwand,19.9,69,270,20,96.6,12.5
+Keller 1,Nordwand,19.9,69,270,50,74.6,12.8
+Keller 1,Nordwand,19.9,69,270,100,54.0,14.9
+Keller 1,Nordwand,19.9,69,270,150,44.8,15.3
+Keller 1,Nordwand,19.9,69,270,200,49.6,15.3
+Keller 1,Nordwand,19.9,69,270,230,54.7,15.3
+Keller 1,Nordwand,19.9,69,270,245,51.6,15.0
+Keller 1,Nordwand,19.9,69,300,2,81.4,11.5
+Keller 1,Nordwand,19.9,69,300,20,91.6,12.2
+Keller 1,Nordwand,19.9,69,300,50,59.8,13.6
+Keller 1,Nordwand,19.9,69,300,100,44.1,15.0
+Keller 1,Nordwand,19.9,69,300,150,50.1,15.0
+Keller 1,Nordwand,19.9,69,300,200,46.6,15.0
+Keller 1,Nordwand,19.9,69,300,230,55.5,14.7
+Keller 1,Nordwand,19.9,69,300,245,42.7,14.5
+Keller 1,Nordwand,19.9,69,320,2,77.3,11.0
+Keller 1,Nordwand,19.9,69,320,20,115.0,11.7
+Keller 1,Nordwand,19.9,69,320,50,98.8,12.0
+Keller 1,Nordwand,19.9,69,320,100,66.9,13.8
+Keller 1,Nordwand,19.9,69,320,150,65.3,14.1
+Keller 1,Nordwand,19.9,69,320,200,56.9,14.1
+Keller 1,Nordwand,19.9,69,320,230,67.4,13.8
+Keller 1,Nordwand,19.9,69,320,245,45.0,13.5
+Keller 2,Nordwand,19.7,72,0,2,93.2,12.4
+Keller 2,Nordwand,19.7,72,0,20,83.6,13.4
+Keller 2,Nordwand,19.7,72,0,50,77.1,13.7
+Keller 2,Nordwand,19.7,72,0,100,53.8,14.0
+Keller 2,Nordwand,19.7,72,0,150,59.4,14.7
+Keller 2,Nordwand,19.7,72,0,200,59.7,14.4
+Keller 2,Nordwand,19.7,72,0,230,65.2,14.4
+Keller 2,Nordwand,19.7,72,0,250,54.3,13.7
+Keller 2,Nordwand,19.7,72,20,2,96.8,13.2
+Keller 2,Nordwand,19.7,72,20,20,75.7,13.0
+Keller 2,Nordwand,19.7,72,20,50,57.7,14.4
+Keller 2,Nordwand,19.7,72,20,100,54.0,15.1
+Keller 2,Nordwand,19.7,72,20,150,43.7,15.1
+Keller 2,Nordwand,19.7,72,20,200,50.6,15.1
+Keller 2,Nordwand,19.7,72,20,230,54.1,14.6
+Keller 2,Nordwand,19.7,72,20,250,51.7,14.4
+Keller 2,Nordwand,19.7,72,50,2,78.1,13.7
+Keller 2,Nordwand,19.7,72,50,20,83.6,13.9
+Keller 2,Nordwand,19.7,72,50,50,63.2,14.4
+Keller 2,Nordwand,19.7,72,50,100,33.6,14.7
+Keller 2,Nordwand,19.7,72,50,150,46.0,15.1
+Keller 2,Nordwand,19.7,72,50,200,50.2,15.1
+Keller 2,Nordwand,19.7,72,50,230,57.2,14.5
+Keller 2,Nordwand,19.7,72,50,250,47.2,14.0
+Keller 2,Nordwand,19.7,72,100,2,92.5,13.7
+Keller 2,Nordwand,19.7,72,100,20,64.8,13.7
+Keller 2,Nordwand,19.7,72,100,50,50.7,15.1
+Keller 2,Nordwand,19.7,72,100,100,43.8,15.1
+Keller 2,Nordwand,19.7,72,100,150,41.2,15.1
+Keller 2,Nordwand,19.7,72,100,200,49.6,14.8
+Keller 2,Nordwand,19.7,72,100,230,50.9,14.1
+Keller 2,Nordwand,19.7,72,100,250,56.0,13.8
+Keller 2,Nordwand,19.7,72,200,2,75.7,13.5
+Keller 2,Nordwand,19.7,72,200,20,50.3,14.1
+Keller 2,Nordwand,19.7,72,200,50,42.5,14.1
+Keller 2,Nordwand,19.7,72,200,100,41.5,14.2
+Keller 2,Nordwand,19.7,72,200,150,39.4,14.2
+Keller 2,Nordwand,19.7,72,200,200,51.0,14.3
+Keller 2,Nordwand,19.7,72,200,230,50.7,14.2
+Keller 2,Nordwand,19.7,72,200,250,61.1,13.9
+Keller 2,Nordwand,19.7,72,285,2,86.3,13.0
+Keller 2,Nordwand,19.7,72,285,20,59.1,13.2
+Keller 2,Nordwand,19.7,72,285,50,46.4,14.0
+Keller 2,Nordwand,19.7,72,285,100,41.7,14.0
+Keller 2,Nordwand,19.7,72,285,150,39.1,14.3
+Keller 2,Nordwand,19.7,72,285,200,49.7,14.4
+Keller 2,Nordwand,19.7,72,285,230,55.6,14.0
+Keller 2,Nordwand,19.7,72,285,250,68.1,14.0
+Keller 2,Nordwand,19.7,72,335,2,66.9,12.5
+Keller 2,Nordwand,19.7,72,335,20,73.3,13.7
+Keller 2,Nordwand,19.7,72,335,50,56.4,13.7
+Keller 2,Nordwand,19.7,72,335,100,43.8,14.0
+Keller 2,Nordwand,19.7,72,335,150,49.3,14.4
+Keller 2,Nordwand,19.7,72,335,200,57.6,14.5
+Keller 2,Nordwand,19.7,72,335,230,54.8,14.5
+Keller 2,Nordwand,19.7,72,335,250,46.4,14.1
+Keller 2,Nordwand,19.7,72,365,2,61.3,11.5
+Keller 2,Nordwand,19.7,72,365,20,61.7,11.8
+Keller 2,Nordwand,19.7,72,365,50,55.0,14.2
+Keller 2,Nordwand,19.7,72,365,100,43.8,14.2
+Keller 2,Nordwand,19.7,72,365,150,43.3,14.2
+Keller 2,Nordwand,19.7,72,365,200,49.2,13.8
+Keller 2,Nordwand,19.7,72,365,230,52.2,13.9
+Keller 2,Nordwand,19.7,72,365,250,54.1,13.9
+Keller 2,Nordwand,19.7,72,385,2,95.1,12.9
+Keller 2,Nordwand,19.7,72,385,20,104.0,12.7
+Keller 2,Nordwand,19.7,72,385,50,79.9,12.9
+Keller 2,Nordwand,19.7,72,385,100,80.4,14.3
+Keller 2,Nordwand,19.7,72,385,150,74.1,13.6
+Keller 2,Nordwand,19.7,72,385,200,74.8,13.6
+Keller 2,Nordwand,19.7,72,385,230,72.1,13.3
+Keller 2,Nordwand,19.7,72,385,250,61.3,13.3
+Keller 3,Nordwand,19.4,73,0,0,102.0,11.2
+Keller 3,Nordwand,19.4,73,0,20,107.0,11.8
+Keller 3,Nordwand,19.4,73,0,50,115.0,11.9
+Keller 3,Nordwand,19.4,73,0,100,90.1,12.4
+Keller 3,Nordwand,19.4,73,0,150,82.6,13.3
+Keller 3,Nordwand,19.4,73,0,200,76.6,13.3
+Keller 3,Nordwand,19.4,73,0,230,87.6,13.3
+Keller 3,Nordwand,19.4,73,0,250,42.3,13.5
+Keller 3,Nordwand,19.4,73,20,0,84.5,12.2
+Keller 3,Nordwand,19.4,73,20,20,85.5,12.7
+Keller 3,Nordwand,19.4,73,20,50,82.6,13.6
+Keller 3,Nordwand,19.4,73,20,100,62.6,13.4
+Keller 3,Nordwand,19.4,73,20,150,59.8,13.6
+Keller 3,Nordwand,19.4,73,20,200,61.5,13.8
+Keller 3,Nordwand,19.4,73,20,230,68.0,13.9
+Keller 3,Nordwand,19.4,73,20,250,64.9,14.2
+Keller 3,Nordwand,19.4,73,50,0,107.0,12.2
+Keller 3,Nordwand,19.4,73,50,20,78.5,13.0
+Keller 3,Nordwand,19.4,73,50,50,70.2,12.9
+Keller 3,Nordwand,19.4,73,50,100,60.6,13.2
+Keller 3,Nordwand,19.4,73,50,150,59.6,14.2
+Keller 3,Nordwand,19.4,73,50,200,63.2,14.2
+Keller 3,Nordwand,19.4,73,50,230,64.7,14.1
+Keller 3,Nordwand,19.4,73,50,250,57.6,14.1
+Keller 3,Nordwand,19.4,73,100,0,83.8,13.8
+Keller 3,Nordwand,19.4,73,100,20,76.2,13.5
+Keller 3,Nordwand,19.4,73,100,50,63.4,13.5
+Keller 3,Nordwand,19.4,73,100,100,68.5,13.8
+Keller 3,Nordwand,19.4,73,100,150,59.4,14.1
+Keller 3,Nordwand,19.4,73,100,200,66.0,14.1
+Keller 3,Nordwand,19.4,73,100,230,61.9,14.1
+Keller 3,Nordwand,19.4,73,100,250,63.0,14.1
+Keller 3,Nordwand,19.4,73,200,0,78.2,13.4
+Keller 3,Nordwand,19.4,73,200,20,76.0,12.9
+Keller 3,Nordwand,19.4,73,200,50,58.8,12.8
+Keller 3,Nordwand,19.4,73,200,100,58.0,13.3
+Keller 3,Nordwand,19.4,73,200,150,61.9,13.7
+Keller 3,Nordwand,19.4,73,200,200,60.4,13.7
+Keller 3,Nordwand,19.4,73,200,230,59.2,13.7
+Keller 3,Nordwand,19.4,73,200,250,80.1,13.7
+Keller 3,Nordwand,19.4,73,315,0,70.1,12.6
+Keller 3,Nordwand,19.4,73,315,20,77.7,12.9
+Keller 3,Nordwand,19.4,73,315,50,62.3,13.0
+Keller 3,Nordwand,19.4,73,315,100,55.4,13.2
+Keller 3,Nordwand,19.4,73,315,150,56.0,13.9
+Keller 3,Nordwand,19.4,73,315,200,59.1,14.2
+Keller 3,Nordwand,19.4,73,315,230,62.1,14.0
+Keller 3,Nordwand,19.4,73,315,250,58.2,13.9
+Keller 3,Nordwand,19.4,73,365,0,74.8,13.4
+Keller 3,Nordwand,19.4,73,365,20,71.6,12.6
+Keller 3,Nordwand,19.4,73,365,50,55.8,12.8
+Keller 3,Nordwand,19.4,73,365,100,52.2,13.7
+Keller 3,Nordwand,19.4,73,365,150,56.2,14.2
+Keller 3,Nordwand,19.4,73,365,200,57.7,14.2
+Keller 3,Nordwand,19.4,73,365,230,61.0,14.2
+Keller 3,Nordwand,19.4,73,365,250,63.1,13.6
+Keller 3,Nordwand,19.4,73,395,0,76.1,12.2
+Keller 3,Nordwand,19.4,73,395,20,60.1,13.2
+Keller 3,Nordwand,19.4,73,395,50,54.7,13.8
+Keller 3,Nordwand,19.4,73,395,100,51.2,13.8
+Keller 3,Nordwand,19.4,73,395,150,57.1,14.1
+Keller 3,Nordwand,19.4,73,395,200,56.3,14.1
+Keller 3,Nordwand,19.4,73,395,230,71.0,13.4
+Keller 3,Nordwand,19.4,73,395,250,69.2,13.4
+Keller 3,Nordwand,19.4,73,415,0,74.8,11.7
+Keller 3,Nordwand,19.4,73,415,20,73.2,12.4
+Keller 3,Nordwand,19.4,73,415,50,77.3,12.9
+Keller 3,Nordwand,19.4,73,415,100,74.2,14.0
+Keller 3,Nordwand,19.4,73,415,150,71.5,14.0
+Keller 3,Nordwand,19.4,73,415,200,80.7,14.0
+Keller 3,Nordwand,19.4,73,415,230,83.6,14.2
+Keller 3,Nordwand,19.4,73,415,250,74.5,13.6
+Keller 4,Nordwand,20.2,55,0,0,85.7,13.5
+Keller 4,Nordwand,20.2,55,0,20,77.9,14.5
+Keller 4,Nordwand,20.2,55,0,50,52.8,16.1
+Keller 4,Nordwand,20.2,55,0,100,48.5,15.8
+Keller 4,Nordwand,20.2,55,0,150,51.3,15.4
+Keller 4,Nordwand,20.2,55,0,200,53.3,15.4
+Keller 4,Nordwand,20.2,55,0,230,55.7,15.4
+Keller 4,Nordwand,20.2,55,0,250,52.5,15.1
+Keller 4,Nordwand,20.2,55,50,0,64.5,15.0
+Keller 4,Nordwand,20.2,55,50,20,36.5,16.0
+Keller 4,Nordwand,20.2,55,50,50,31.4,16.0
+Keller 4,Nordwand,20.2,55,50,100,32.8,16.3
+Keller 4,Nordwand,20.2,55,50,150,34.4,16.6
+Keller 4,Nordwand,20.2,55,50,200,36.2,16.7
+Keller 4,Nordwand,20.2,55,50,230,34.4,16.4
+Keller 4,Nordwand,20.2,55,50,250,39.7,16.1
+Keller 4,Nordwand,20.2,55,200,0,69.6,14.6
+Keller 4,Nordwand,20.2,55,200,20,45.0,15.2
+Keller 4,Nordwand,20.2,55,200,50,38.7,15.4
+Keller 4,Nordwand,20.2,55,200,100,36.2,16.3
+Keller 4,Nordwand,20.2,55,200,150,31.7,16.7
+Keller 4,Nordwand,20.2,55,200,200,40.5,16.7
+Keller 4,Nordwand,20.2,55,200,230,36.1,16.7
+Keller 4,Nordwand,20.2,55,200,250,43.6,16.3
+Keller 4,Ostwand,20.2,55,90,0,80.9,17.6
+Keller 4,Ostwand,20.2,55,90,20,55.5,16.6
+Keller 4,Ostwand,20.2,55,90,50,37.5,17.2
+Keller 4,Ostwand,20.2,55,90,100,48.2,17.5
+Keller 4,Ostwand,20.2,55,90,150,46.3,17.5
+Keller 4,Ostwand,20.2,55,90,200,55.4,17.7
+Keller 4,Ostwand,20.2,55,90,230,79.1,17.5
+Keller 4,Ostwand,20.2,55,90,250,60.8,17.6
+Keller 5,Westwand,21.2,65,0,0,83.4,18.0
+Keller 5,Westwand,21.2,65,0,20,86.0,18.6
+Keller 5,Westwand,21.2,65,0,50,63.6,19.9
+Keller 5,Westwand,21.2,65,0,100,77.9,19.9
+Keller 5,Westwand,21.2,65,0,150,73.3,19.9
+Keller 5,Westwand,21.2,65,0,200,66.1,19.4
+Keller 5,Westwand,21.2,65,0,230,51.7,19.4
+Keller 5,Westwand,21.2,65,0,250,45.1,20.4
+Keller 5,Westwand,21.2,65,20,0,74.8,17.1
+Keller 5,Westwand,21.2,65,20,20,66.0,17.1
+Keller 5,Westwand,21.2,65,20,50,41.0,17.7
+Keller 5,Westwand,21.2,65,20,100,43.1,18.7
+Keller 5,Westwand,21.2,65,20,150,41.7,18.7
+Keller 5,Westwand,21.2,65,20,200,40.4,18.0
+Keller 5,Westwand,21.2,65,20,230,51.2,18.4
+Keller 5,Westwand,21.2,65,20,250,46.8,18.5
+Keller 5,Westwand,21.2,65,50,0,57.2,16.0
+Keller 5,Westwand,21.2,65,50,20,63.0,16.5
+Keller 5,Westwand,21.2,65,50,50,45.6,17.1
+Keller 5,Westwand,21.2,65,50,100,48.7,17.5
+Keller 5,Westwand,21.2,65,50,150,40.6,17.5
+Keller 5,Westwand,21.2,65,50,200,46.6,17.5
+Keller 5,Westwand,21.2,65,50,230,46.6,17.2
+Keller 5,Westwand,21.2,65,50,245,47.8,17.2
+Keller 5,Westwand,21.2,65,100,0,80.6,15.9
+Keller 5,Westwand,21.2,65,100,20,58.8,15.6
+Keller 5,Westwand,21.2,65,100,50,52.1,15.9
+Keller 5,Westwand,21.2,65,100,100,50.7,16.7
+Keller 5,Westwand,21.2,65,100,150,41.0,16.7
+Keller 5,Westwand,21.2,65,100,200,46.0,17.4
+Keller 5,Westwand,21.2,65,100,230,47.7,16.4
+Keller 5,Westwand,21.2,65,100,245,57.7,16.5
+Keller 5,Westwand,21.2,65,165,2,82.7,15.2
+Keller 5,Westwand,21.2,65,165,20,68.5,15.2
+Keller 5,Westwand,21.2,65,165,50,55.7,15.5
+Keller 5,Westwand,21.2,65,165,100,50.1,16.5
+Keller 5,Westwand,21.2,65,165,150,42.9,16.6
+Keller 5,Westwand,21.2,65,165,200,48.0,16.6
+Keller 5,Westwand,21.2,65,165,230,50.0,16.3
+Keller 5,Westwand,21.2,65,165,245,60.4,16.3
+Keller 5,Westwand,21.2,65,215,2,74.1,13.8
+Keller 5,Westwand,21.2,65,215,20,79.3,14.9
+Keller 5,Westwand,21.2,65,215,50,58.5,15.6
+Keller 5,Westwand,21.2,65,215,100,47.5,16.4
+Keller 5,Westwand,21.2,65,215,150,36.6,16.4
+Keller 5,Westwand,21.2,65,215,200,48.1,15.9
+Keller 5,Westwand,21.2,65,215,230,47.8,15.7
+Keller 5,Westwand,21.2,65,215,245,54.7,15.6
+Keller 5,Westwand,21.2,65,245,2,64.0,13.3
+Keller 5,Westwand,21.2,65,245,20,76.2,13.7
+Keller 5,Westwand,21.2,65,245,50,55.4,15.4
+Keller 5,Westwand,21.2,65,245,100,46.8,15.1
+Keller 5,Westwand,21.2,65,245,150,50.6,15.4
+Keller 5,Westwand,21.2,65,245,200,41.6,15.4
+Keller 5,Westwand,21.2,65,245,230,52.7,15.4
+Keller 5,Westwand,21.2,65,245,245,52.1,15.4
+Keller 5,Westwand,21.2,65,265,2,85.0,12.3
+Keller 5,Westwand,21.2,65,265,20,113.0,13.7
+Keller 5,Westwand,21.2,65,265,50,79.1,14.7
+Keller 5,Westwand,21.2,65,265,100,61.0,14.7
+Keller 5,Westwand,21.2,65,265,150,55.8,15.1
+Keller 5,Westwand,21.2,65,265,200,59.1,15.1
+Keller 5,Westwand,21.2,65,265,230,72.2,14.8
+Keller 5,Westwand,21.2,65,265,245,51.6,14.8
+Keller 8,Ostwand,20.1,70,0,0,45.0,16.0
+Keller 8,Ostwand,20.1,70,0,20,103.0,15.9
+Keller 8,Ostwand,20.1,70,0,50,98.4,16.7
+Keller 8,Ostwand,20.1,70,0,100,98.4,17.3
+Keller 8,Ostwand,20.1,70,0,150,83.6,17.3
+Keller 8,Ostwand,20.1,70,0,200,97.5,17.3
+Keller 8,Ostwand,20.1,70,0,230,100.0,17.6
+Keller 8,Ostwand,20.1,70,0,250,79.5,17.7
+Keller 8,Ostwand,20.1,70,20,0,89.3,15.8
+Keller 8,Ostwand,20.1,70,20,20,91.8,15.6
+Keller 8,Ostwand,20.1,70,20,50,61.4,16.7
+Keller 8,Ostwand,20.1,70,20,100,67.0,17.1
+Keller 8,Ostwand,20.1,70,20,150,68.8,17.1
+Keller 8,Ostwand,20.1,70,20,200,67.6,17.1
+Keller 8,Ostwand,20.1,70,20,230,86.7,17.1
+Keller 8,Ostwand,20.1,70,20,250,81.8,17.1
+Keller 8,Ostwand,20.1,70,50,0,78.8,15.0
+Keller 8,Ostwand,20.1,70,50,20,77.6,15.4
+Keller 8,Ostwand,20.1,70,50,50,67.2,15.7
+Keller 8,Ostwand,20.1,70,50,100,61.6,16.2
+Keller 8,Ostwand,20.1,70,50,150,65.8,16.5
+Keller 8,Ostwand,20.1,70,50,200,66.7,16.9
+Keller 8,Ostwand,20.1,70,50,230,75.8,17.2
+Keller 8,Ostwand,20.1,70,50,250,81.6,17.2
+Keller 8,Ostwand,20.1,70,115,0,88.3,16.3
+Keller 8,Ostwand,20.1,70,115,20,87.0,15.4
+Keller 8,Ostwand,20.1,70,115,50,87.9,16.3
+Keller 8,Ostwand,20.1,70,115,100,75.0,16.3
+Keller 8,Ostwand,20.1,70,115,150,60.1,16.3
+Keller 8,Ostwand,20.1,70,115,200,77.5,16.7
+Keller 8,Ostwand,20.1,70,115,230,89.8,16.7
+Keller 8,Ostwand,20.1,70,115,250,92.2,17.0
+Keller 8,Ostwand,20.1,70,120,150,90.0,16.5
+Keller 8,Ostwand,20.1,70,120,195,105.0,16.5
+Keller 8,Ostwand,20.1,70,125,150,95.4,16.5
+Keller 8,Ostwand,20.1,70,175,0,162.0,14.1
+Keller 8,Ostwand,20.1,70,175,20,84.8,14.9
+Keller 8,Ostwand,20.1,70,175,50,72.1,14.9
+Keller 8,Ostwand,20.1,70,175,100,82.0,15.5
+Keller 8,Ostwand,20.1,70,175,150,68.5,15.9
+Keller 8,Ostwand,20.1,70,175,200,78.5,15.9
+Keller 8,Ostwand,20.1,70,175,230,65.4,15.9
+Keller 8,Ostwand,20.1,70,175,250,50.3,15.9
+Keller 8,Ostwand,20.1,70,205,0,98.1,13.3
+Keller 8,Ostwand,20.1,70,205,20,95.2,14.4
+Keller 8,Ostwand,20.1,70,205,50,82.0,14.4
+Keller 8,Ostwand,20.1,70,205,100,66.0,15.4
+Keller 8,Ostwand,20.1,70,205,150,63.2,15.4
+Keller 8,Ostwand,20.1,70,205,200,74.0,15.7
+Keller 8,Ostwand,20.1,70,205,230,82.6,15.8
+Keller 8,Ostwand,20.1,70,205,250,90.7,16.3
+Keller 8,Ostwand,20.1,70,225,0,102.0,13.5
+Keller 8,Ostwand,20.1,70,225,20,77.3,13.8
+Keller 8,Ostwand,20.1,70,225,50,93.8,14.6
+Keller 8,Ostwand,20.1,70,225,100,83.0,14.6
+Keller 8,Ostwand,20.1,70,225,150,83.2,15.3
+Keller 8,Ostwand,20.1,70,225,200,94.8,15.7
+Keller 8,Ostwand,20.1,70,225,230,100.0,16.1
+Keller 8,Ostwand,20.1,70,225,250,68.2,16.1
+Keller 9,Ostwand,21.8,68,0,0,97.0,14.4
+Keller 9,Ostwand,21.8,68,0,20,116.0,16.0
+Keller 9,Ostwand,21.8,68,0,50,91.2,17.1
+Keller 9,Ostwand,21.8,68,0,100,82.3,17.6
+Keller 9,Ostwand,21.8,68,0,150,79.5,18.0
+Keller 9,Ostwand,21.8,68,0,200,77.6,18.5
+Keller 9,Ostwand,21.8,68,0,230,77.1,19.5
+Keller 9,Ostwand,21.8,68,0,250,59.2,19.0
+Keller 9,Ostwand,21.8,68,20,0,80.0,15.2
+Keller 9,Ostwand,21.8,68,20,20,77.6,16.6
+Keller 9,Ostwand,21.8,68,20,50,79.5,17.3
+Keller 9,Ostwand,21.8,68,20,100,69.7,18.4
+Keller 9,Ostwand,21.8,68,20,150,47.4,18.4
+Keller 9,Ostwand,21.8,68,20,200,62.4,18.7
+Keller 9,Ostwand,21.8,68,20,230,77.4,19.7
+Keller 9,Ostwand,21.8,68,20,250,72.5,19.7
+Keller 9,Ostwand,21.8,68,50,0,67.0,15.7
+Keller 9,Ostwand,21.8,68,50,20,78.9,16.5
+Keller 9,Ostwand,21.8,68,50,50,63.6,17.5
+Keller 9,Ostwand,21.8,68,50,100,55.0,18.1
+Keller 9,Ostwand,21.8,68,50,150,43.9,18.9
+Keller 9,Ostwand,21.8,68,50,200,51.0,18.9
+Keller 9,Ostwand,21.8,68,50,230,76.3,19.6
+Keller 9,Ostwand,21.8,68,50,250,61.5,19.6
+Keller 9,Ostwand,21.8,68,100,0,71.1,15.0
+Keller 9,Ostwand,21.8,68,100,20,87.4,16.0
+Keller 9,Ostwand,21.8,68,100,50,66.3,16.8
+Keller 9,Ostwand,21.8,68,100,100,51.3,18.1
+Keller 9,Ostwand,21.8,68,100,150,54.1,18.5
+Keller 9,Ostwand,21.8,68,100,200,71.3,19.4
+Keller 9,Ostwand,21.8,68,100,230,78.0,19.5
+Keller 9,Ostwand,21.8,68,100,250,70.9,20.2
+Keller 9,Ostwand,21.8,68,175,0,90.5,15.6
+Keller 9,Ostwand,21.8,68,175,20,94.1,15.7
+Keller 9,Ostwand,21.8,68,175,50,65.6,16.0
+Keller 9,Ostwand,21.8,68,175,100,57.5,17.3
+Keller 9,Ostwand,21.8,68,175,150,51.8,17.8
+Keller 9,Ostwand,21.8,68,175,200,62.8,19.9
+Keller 9,Ostwand,21.8,68,175,230,47.5,22.7
+Keller 9,Ostwand,21.8,68,175,250,46.2,22.5
+Keller 9,Ostwand,21.8,68,220,15,79.3,14.0
+Keller 9,Ostwand,21.8,68,220,62,67.3,15.6
+Keller 9,Ostwand,21.8,68,220,100,70.7,15.7
+Keller 9,Ostwand,21.8,68,220,133,83.2,16.0
+Keller 9,Ostwand,21.8,68,220,187,57.8,17.8

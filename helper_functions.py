@@ -28,7 +28,7 @@ def custom_cmap():
 
     return cmap
 
-def create_plots(df, room, wall):
+def create_plots(df, room, wall, with_scatter=True, with_x_labels=True):
     # constants
     room_height=250
 
@@ -42,7 +42,7 @@ def create_plots(df, room, wall):
     z_temperature = df_wall["wall_temperature_degC"]
 
     # Define grid
-    xi = np.linspace(0, x.max(), 1000)
+    xi = np.linspace(x.min(), x.max(), 1000)
     yi = np.linspace(0, room_height, 1000)
 
     # Perform interpolation
@@ -53,17 +53,21 @@ def create_plots(df, room, wall):
     plt.figure(figsize = (x.max()/50, room_height/50))
     plt.imshow(
         zi_humidity,
-        extent=(0, x.max(), 0, room_height),
+        extent=(x.min(), x.max() if x.max() - x.min() >= 30 else x.min() + 30, 0, room_height),
         origin='lower',
         cmap=custom_cmap(),
         aspect='equal',
         vmin=0,
         vmax=200
     )
-    plt.colorbar(label="Feuchtigkeit [digits]")
-    plt.xlabel('X')
+    plt.colorbar(label="Feuchtigkeit [digits]", shrink=0.8)
+    if with_x_labels:
+        plt.xlabel('X')
+    else:
+        plt.xticks([])
     plt.ylabel('Y')
-    plt.scatter(x, y, color='grey', marker='x')
+    if with_scatter:
+        plt.scatter(x, y, color='grey', marker='x')
     plt.title(f"Feuchtigkeit: {room}, {wall}")
     plt.show()
 
@@ -71,16 +75,20 @@ def create_plots(df, room, wall):
     plt.figure(figsize = (x.max()/50, room_height/50))
     plt.imshow(
         zi_temperature,
-        extent=(0, x.max(), 0, room_height),
+        extent=(x.min(), x.max() if x.max() - x.min() >= 30 else x.min() + 30, 0, room_height),
         origin='lower',
         cmap='RdBu_r',
         aspect='equal',
         vmin=10,
         vmax=25
     )
-    plt.colorbar(label='Temperatur [°C]')
-    plt.xlabel('X')
+    plt.colorbar(label='Temperatur [°C]', shrink=0.8)
+    if with_x_labels:
+        plt.xlabel('X')
+    else:
+        plt.xticks([])
     plt.ylabel('Y')
-    plt.scatter(x, y, color='grey', marker='x')
+    if with_scatter:
+        plt.scatter(x, y, color='grey', marker='x')
     plt.title(f"Temperatur: {room}, {wall}")
     plt.show()

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.interpolate import griddata
 
-def custom_cmap():
+def custom_cmap_wall_humidity():
     # Define color segments and corresponding colors with smooth gradient
     # https://www.ausbaupraxis.de/feucht-oder-froehlich-die-feuchtemessung-17112021
     # bis 40 Skalenanteile: trockener Baustoff
@@ -28,7 +28,7 @@ def custom_cmap():
 
     return cmap
 
-def create_plots(df, room, wall, with_scatter=True, with_x_labels=True):
+def create_plots_wall(df, room, wall, with_scatter=True, with_x_labels=True):
     # constants
     room_height=250
 
@@ -55,7 +55,7 @@ def create_plots(df, room, wall, with_scatter=True, with_x_labels=True):
         zi_humidity,
         extent=(x.min(), x.max() if x.max() - x.min() >= 30 else x.min() + 30, 0, room_height),
         origin='lower',
-        cmap=custom_cmap(),
+        cmap=custom_cmap_wall_humidity(),
         aspect='equal',
         vmin=0,
         vmax=200
